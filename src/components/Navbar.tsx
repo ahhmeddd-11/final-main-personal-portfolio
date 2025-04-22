@@ -46,7 +46,8 @@ const Navbar = () => {
         <button 
             onClick={() => scrollToSection("home")} 
             className="text-foreground hover:text-primary transition-colors"
-          >
+          > Portfolio
+          </button>
         
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-6">
