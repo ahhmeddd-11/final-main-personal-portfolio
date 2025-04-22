@@ -104,3 +104,9 @@
     @apply opacity-100 translate-y-0;
   }
 }
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+}
