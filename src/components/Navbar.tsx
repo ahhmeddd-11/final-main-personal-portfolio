@@ -42,12 +42,7 @@ const Navbar = () => {
       }`}
     >
       <div className="container-custom flex justify-between items-center">
-        {/* <a href="#home" className="text-2xl font-bold text-primary">Portfolio</a> */}
-        <button 
-            onClick={() => scrollToSection("home")} 
-            className="text-foreground hover:text-primary transition-colors"
-          > Portfolio
-          </button>
+        <a href="#home" className="text-2xl font-bold text-primary">Portfolio</a>
         
         {/* Desktop Navigation */}
         <nav className="hidden md:flex items-center gap-6">
