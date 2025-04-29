@@ -18,13 +18,12 @@ const projectsData = [
   },
   {
     id: 2,
-    title: "Fitness Tracking App",
-    description: "Mobile application that tracks workouts, nutrition, and provides personalized recommendations.",
-    image: "https://images.unsplash.com/photo-1649972904349-6e44c42644a7?q=80&w=2532&auto=format&fit=crop&h=520",
-    tags: ["React Native", "Firebase", "Redux"],
-    category: "Mobile",
-    demoLink: "https://example.com",
-    githubLink: "https://github.com"
+    title: "Virtual Mouse",
+    description: "A Python application that tracks your hand and moves the cursor on the system.",
+    image: "https://res.cloudinary.com/dwqybearh/image/upload/v1745953364/Screenshot_2025-04-30_003005_kmyzrv.png",
+    tags: ["Python", "DIP"],
+    category: "Gesture-Driven",
+    githubLink: "https://github.com/ahhmeddd-11/gesture-driven-mouse-control"
   }
 ];
 
