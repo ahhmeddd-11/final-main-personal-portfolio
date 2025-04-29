@@ -19,7 +19,7 @@ const projectsData = [
   {
     id: 2,
     title: "Virtual Mouse",
-    description: "A Python application that tracks your hand and moves the cursor on the system.",
+    description: "AI-powered virtual mouse that converts hand movements into cursor actions using computer vision, eliminating need for physical hardware through Python and MediaPipe implementation.",
     image: "https://res.cloudinary.com/dwqybearh/image/upload/v1745953364/Screenshot_2025-04-30_003005_kmyzrv.png",
     tags: ["Python", "DIP"],
     category: "Gesture-Driven",
