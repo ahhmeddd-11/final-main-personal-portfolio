@@ -21,7 +21,7 @@ const projectsData = [
     title: "Virtual Mouse",
     description: "AI-powered virtual mouse that converts hand movements into cursor actions using computer vision, eliminating need for physical hardware through Python and MediaPipe implementation.",
     image: "https://res.cloudinary.com/dwqybearh/image/upload/v1745953364/Screenshot_2025-04-30_003005_kmyzrv.png",
-    tags: ["Python", "DIP"],
+    tags: ["Python", "DIP", "Streamlit", "AI", "OpenCV"],
     category: "Gesture-Driven",
     githubLink: "https://github.com/ahhmeddd-11/gesture-driven-mouse-control"
   }
