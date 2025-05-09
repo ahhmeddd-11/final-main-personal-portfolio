@@ -27,7 +27,7 @@ const About = () => {
             
             <div className="pt-4">
               <Button asChild>
-                <a href="https://drive.google.com/file/d/1ajPowt4OWZ-rNGk2vBcNakJPc7xkcXit/view?usp=sharing" download target="_blank">
+                <a href="https://drive.google.com/file/d/1OUX5VK9qu8Kz7gDFQyiYziAZGGTf4WgG/view?usp=sharing" download target="_blank">
                   <Download className="mr-2 h-4 w-4" /> Download Resume
                 </a>
               </Button>
